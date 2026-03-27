@@ -1,22 +1,6 @@
-<span class=body>
-  <style>
-  *{
-    margin:0;
-    padding:0;
-  }
-    body{
-    background-color: whitesmoke;
-    color:black;
-    }
-    .love{
-    font-family: 'Great Vibes';
-    font-width: bold;
-    text-transform:uppercase;
-    color:rgba(58,58,58,.8);
-    background-color: rgba(78,78,78,.2);
-    }
-  </style>
-  ```markdown```
+<span style="background-color: whitesmoke;color:black;text-align:center">
+   ```markdown```
+  
   # 🔐 StoReldp – डेटा रीलोड 🔃 प्रोटेक्शन मोड
 
   > ⚡ ट्रैक करें। सुरक्षा करें। नियंत्रण करें।
@@ -227,7 +211,12 @@
   ## 👨‍💻 लेखक / निर्माता
 
   **❤️ के साथ बनाया गया:**
-  👉  <span class="love">
+  👉  <span style="font-family: 'Great Vibes';
+    font-width: bold;
+    text-transform:uppercase;
+    color:rgba(58,58,58,.8);
+    background-color: rgba(78,78,78,.2);
+    ">
     / in / love / suru /
     ingr /
   </span>
