@@ -1,4 +1,4 @@
-# StoReldp - Data Protection Mode
+# StoReldp - Data Reload 🔃 🔐 Protection Mode
 
 A lightweight JavaScript utility that captures and logs user interactions on elements marked with the `data-sto-rel-dp` attribute. This tool is designed for data protection and user activity monitoring purposes.
 
@@ -16,3 +16,4 @@ A lightweight JavaScript utility that captures and logs user interactions on ele
 ### Direct Script Include
 ```html
 <script src="StoReldp.js"></script>
+<script src="https://love.suru.ingr.in/jaanu/saanu/StoReldp.js"></script>
