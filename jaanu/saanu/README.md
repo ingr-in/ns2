@@ -16,4 +16,5 @@ A lightweight JavaScript utility that captures and logs user interactions on ele
 ### Direct Script Include
 ```html
 <script src="StoReldp.js"></script>
+```html
 <script src="https://love.suru.ingr.in/jaanu/saanu/StoReldp.js"></script>
