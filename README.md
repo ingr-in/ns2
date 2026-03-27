@@ -1,4 +1,5 @@
-<span style="background-color: whitesmoke;color:black;text-align:center">
+<span style="background-color:
+whitesmoke;color:black;text-align:center;white-space: 0;">
    ```markdown```
   
   # 🔐 StoReldp – डेटा रीलोड 🔃 प्रोटेक्शन मोड
@@ -246,4 +247,3 @@
 
   *StoReldp – स्मार्ट ट्रैकिंग, बेहतर नियंत्रण, स्पष्ट जवाबदेही।*
   ```
-  </span>
